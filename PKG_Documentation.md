@@ -64,6 +64,8 @@ FULL installations also include the following packages:
 
 * **[awesome-terminal-fonts](https://archlinux.org/packages/community/any/awesome-terminal-fonts/)**: This package adds several symbols and icons to improve the look of monospace terminals.
 
+* **[barrier](https://archlinux.org/packages/community/x86_64/barrier/)**: Open-source KVM software based on Synergy (GUI).
+
 * **[bash-completion](https://archlinux.org/packages/extra/x86_64/bash-completion/)**: Programmable completion for the bash shell.
 
 * **[bind](https://archlinux.org/packages/extra/x86_64/bind/)**: A complete, highly portable implementation of the DNS protocol.
@@ -96,6 +98,8 @@ FULL installations also include the following packages:
 
 * **[dnsmasq](https://archlinux.org/packages/extra/x86_64/dnsmasq/)**: Lightweight, easy to configure DNS forwarder and DHCP server.
 
+* **[docker](https://archlinux.org/packages/community/x86_64/docker/)**: Pack, ship and run any application as a lightweight container.
+
 * **[dtc](https://archlinux.org/packages/community/x86_64/dtc/)**: Device Tree Compiler, useful to reformat device-trees files (e.g. dts -> dtb) for booting kernels on embedded systems.
 
 * **[efibootmgr](https://archlinux.org/packages/core/x86_64/efibootmgr/)**: Linux user-space application to modify the EFI Boot Manager.
@@ -103,6 +107,12 @@ FULL installations also include the following packages:
 * **[egl-wayland](https://archlinux.org/packages/extra/x86_64/egl-wayland/)**: WIP implementation of an [EGL](https://en.wikipedia.org/wiki/EGL_(API)) External Platform library to add client-side [Wayland]([Wayland](https://wiki.archlinux.org/title/Wayland)) support to [EGL](https://en.wikipedia.org/wiki/EGL_(API)).
 
 * **[exfat-utils](https://archlinux.org/packages/community/x86_64/exfat-utils/)**: Utilities for the exFAT file system.
+
+* **[firefox](https://archlinux.org/packages/extra/x86_64/firefox/)**: Standalone web browser from Mozilla.
+
+* **[firefox-decentraleyes](https://archlinux.org/packages/community/any/firefox-decentraleyes/)**: A free and open-source browser extension used for local content delivery network emulation. Its primary task is to block connections to major CDNs such as Cloudflare and Google, and serve popular web libraries locally on the users machine.
+
+* **[firefox-ublock-origin](https://archlinux.org/packages/community/any/firefox-ublock-origin/)**: Efficient ad-blocker add-on for various browsers.
 
 * **[flex](https://archlinux.org/packages/core/x86_64/flex/)**: A tool for generating text-scanning programs (programs which recognize lexical patterns in text).
 
@@ -200,7 +210,7 @@ FULL installations also include the following packages:
 
 * **[swtpm](https://archlinux.org/packages/community/x86_64/swtpm/)**: Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 
-* **[synergy](https://archlinux.org/packages/community/x86_64/synergy/)**: A paid and close-source alternative to [barrier](https://archlinux.org/packages/community/x86_64/barrier/). Adds KVM functionalities so that you can use your mouse and keyboard across multiple devices.
+* **[telegram-desktop](https://archlinux.org/packages/community/x86_64/telegram-desktop/)**: The official Telegram desktop client (messaging platform).	
 
 * **[terminus-font](https://archlinux.org/packages/community/any/terminus-font/)**: Monospace bitmap font (for X11 and console).
 
@@ -272,13 +282,19 @@ Only for FULL installations (MINIMAL installs do not install AUR packages).
 
 * **[ocs-url](https://aur.archlinux.org/packages/ocs-url)**: An install helper program for items served via OpenCollaborationServices (ocs://).
 
+* **[only-office](https://aur.archlinux.org/packages/onlyoffice-bin)**: A free and open-source Microsoft Office replacement which looks almost identical to it. I chose this office suite due to its good compatibility with Microsoft's proprietary formats.
+
 * **[plymouth-git](https://aur.archlinux.org/packages/plymouth-git)**: A graphical boot splash screen with kernel mode-setting support (development version).
 
 * **[sddm-nordic-theme-git](https://aur.archlinux.org/packages/sddm-nordic-theme-git)**: Nordic theme for SDDM (Simple Desktop Display Manager).
 
 * **[snapper-gui-git](https://aur.archlinux.org/packages/snapper-gui-git)**: GUI for [snapper](https://archlinux.org/packages/community/x86_64/snapper/), a tool of managing snapshots of [Btrfs](https://en.wikipedia.org/wiki/Btrfs) subvolumes and LVM volumes.
 
+* **[teamviewer](https://aur.archlinux.org/packages/teamviewer)**: All-in-one software for remote support/control and online meetings.
+
 * **[ttf-meslo](https://aur.archlinux.org/packages/ttf-meslo)**: Meslo LG is a customized version of Apple's Menlo font with various line gap and dotted zero.
+
+* **[whatsapp-nativefier](https://aur.archlinux.org/packages/whatsapp-nativefier)**: WhatsApp desktop built with nativefier (electron).
 
 * **[zoom](https://aur.archlinux.org/packages/zoom)**: A video/web conferencing service.
 

@@ -13,8 +13,11 @@ nordic-darker-theme
 nordic-kde-git
 nordic-theme
 ocs-url
+onlyoffice-bin
 plymouth-git
 sddm-nordic-theme-git
 snapper-gui-git
+teamviewer
 ttf-meslo
+whatsapp-nativefier
 zoom
