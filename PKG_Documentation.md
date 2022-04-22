@@ -26,7 +26,7 @@
 
 ### Pacman Packages
 
-The following packages are included in all ArchTitus versions and flavours since they are essential pieces of the operating system:
+The following packages are included in all Carl_OS versions and flavours since they are essential pieces of the operating system:
 
 * **[binutils](https://archlinux.org/packages/core/x86_64/binutils/)**: A set of programs to assemble and manipulate binary and object files.
 
