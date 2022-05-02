@@ -53,7 +53,7 @@ echo -ne "
 pacman -S --noconfirm --needed gptfdisk btrfs-progs glibc
 echo -ne "
 -------------------------------------------------------------------------
-                             Formating Disk
+                             Formatting Disk
 -------------------------------------------------------------------------
 "
 umount -A --recursive /mnt # make sure everything is unmounted before we start
@@ -177,7 +177,7 @@ else
 fi
 echo -ne "
 -------------------------------------------------------------------------
-                   Checking for low memory systems <8G
+            Checking for low memory systems (under 8GB of RAM)
 -------------------------------------------------------------------------
 "
 TOTAL_MEM=$(cat /proc/meminfo | grep -i 'memtotal' | grep -o '[[:digit:]]*')
